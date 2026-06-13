@@ -1,0 +1,6 @@
+{
+  "name": "Write — ForgeYours",
+  "description": "Free, offline-first document editor with full MS Word export, Google Drive sync, and built-in AI writing assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
